@@ -1,7 +1,9 @@
+; Translate the following expression into prefix form (see image)
+
 (/
 	(+
 		5
-		(/ 1 2)
+		4
 		(-
 			2
 			(-
