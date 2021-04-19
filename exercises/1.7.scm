@@ -1,3 +1,8 @@
+; An alternative strategy for implementing good-enough? is to watch how guess
+; changes from one iteration to the next and to stop when the change is a very
+; small fraction of the guess. Design a square-root procedure that uses this
+; kind of end test. Does this work better for small and large numbers?
+
 (define (average x y)
 	(/ (+ x y) 2)
 )

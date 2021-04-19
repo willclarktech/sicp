@@ -1,4 +1,4 @@
-; Translate the following expression into prefix form (see image)
+; Translate the following expression into prefix form [see image]
 
 (/
 	(+
